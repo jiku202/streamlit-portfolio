@@ -41,7 +41,7 @@ PROFILE = {
     "headline": "IT student by day, visual creator always: part developer, part artist, part editor.",
     "email": "jakealipinv@gmail.com",
     "github": "https://github.com/jiku202",
-    "portfolio_site": "https://github.com/jiku202/portfolio-site",
+    "portfolio_site": "https://github.com/jiku202/streamlit-portfolio",
     "bio": [
         "I'm **Jake V. Alipin**, a fourth-year BSIT student at Cebu Institute of Technology – "
         "University, originally from Pinamungajan, Cebu. At my core, I'm a creator. I'm really "
