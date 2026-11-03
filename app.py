@@ -131,7 +131,7 @@ PROJECTS = [
         "summary": "A hand-coded personal website to showcase my creative work and practice front-end fundamentals.",
         "details": "Focused on layout, typography and responsiveness, and on keeping the code organized in a Git repository.",
         "outcome": "A live repository that taught me version control and responsive design",
-        "link": "https://github.com/jiku202/portfolio-site",
+        "link": "https://github.com/jiku202/streamlit-portfolio",
     },
     {
         "title": "Motion Reel: Video Edits",
